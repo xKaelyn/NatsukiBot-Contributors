@@ -1,8 +1,9 @@
 # NatsukiBot-Contributors
+
 ## NatsukiBot Contributors
 Developer: 
-https://github.com/xSklzxDokkaebi
+[xSklzx Dokkaebi](https://github.com/xSklzxDokkaebi)
 
 Contributors:
-https://github.com/Ali365Dash
-https://github.com/kylecaswell
+[Ali365Dash](https://github.com/Ali365Dash)
+[Kyle Caswell](https://github.com/kylecaswell)
