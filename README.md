@@ -1,5 +1,3 @@
-# NatsukiBot-Contributors
-
 ## NatsukiBot Contributors
 Developer:<br> 
 [xSklzx Dokkaebi](https://github.com/xSklzxDokkaebi)<br>
